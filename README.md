@@ -1,2 +1,2 @@
 # Temmy
-A modpack for my Temmy server
+A small modpack for my Temmy server
